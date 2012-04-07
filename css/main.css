@@ -1,0 +1,61 @@
+header{
+	font-family:"FFF Tusj", sans-serif; 
+	font-size-adjust:.80; 
+	font-weight:800; 
+	font-style:normal;
+}
+
+.underlying_heading{
+	text-shadow: 3px 3px 4px #111;
+}
+
+.navigation{
+	list-style-type: none;
+	border: 10px solid #fff
+	display: block;
+	height: 100px;
+	width: 140px;
+	outline: 0;
+}
+
+
+body{
+	width: 960px;
+	margin: 0 auto;
+	background-image: url("../images/gradient_bg.png");
+	background-repeat: repeat-x;
+	background-color: ca8e53;
+	
+}
+
+.about_us{
+	-moz-column-count: 3;
+}
+
+h1, h2, h3{
+	font-family: Copperplate, sans-serif;
+}
+
+p{
+	font-family: Corbel, sans-serif;
+}
+
+ol{
+	Corbel, sans-serif;
+}
+
+.gallery{
+	border: 1px dashed #fff;
+	list-style-type: none;
+	width: 530px;
+	margin: 20px auto;
+	overflow: hidden
+	padding: 5px;
+}
+
+a{
+	border 10px solid #fff;
+	display: block;
+	outline: 0;
+	
+}
